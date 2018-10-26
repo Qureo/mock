@@ -1,12 +1,6 @@
 {
-   "posts": [
-        {
-            "flag": 1,
-            "messgae": "req success",
-            "data": "congrats"
-        }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+  "posts": [
+    { "id": 1, "flag": 1, "messgae": "req success", "data": "congrats"},
+    { "id": 2, "flag": 0, "messgae": "req fail", "data": ""},
+  ]
 }
